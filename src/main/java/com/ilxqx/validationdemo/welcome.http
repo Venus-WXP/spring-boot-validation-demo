@@ -1,0 +1,15 @@
+POST http://localhost:8080/welcome/hello
+Content-Type: application/json
+
+[
+  {
+    "name": "fdsf",
+    "description": "Venus is a person",
+    "max": 13
+  },
+  {
+    "name": "",
+    "description": "Venus is a person2",
+    "max": 20
+  }
+]
